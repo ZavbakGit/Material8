@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+            android:entries="@array/theme"
+            android:entryValues="@array/theme_value"
+            android:key="listTheme"
+            android:summary="Цветовая схема приложения"
+            android:defaultValue="1"
+            android:title="Тема приложения">
+    </ListPreference>
+
+
+</PreferenceScreen>

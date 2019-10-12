@@ -1,4 +1,4 @@
-package `fun`.gladkikh.app.material8.ui.tools
+package `fun`.gladkikh.app.material8.ui.settings
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
